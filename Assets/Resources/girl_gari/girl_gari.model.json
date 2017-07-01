@@ -1,0 +1,9 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "girl_gari",
+	"model": "girl_gari.moc",
+	"textures": [
+		"girl_gari.2048/texture_00.png",
+		"girl_gari.2048/texture_01.png"
+	]
+}

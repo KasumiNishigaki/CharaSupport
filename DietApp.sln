@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8AF9E7CA-BEB7-583C-8456-D1BA9EF56A36}") = "DietApp", "Assembly-CSharp-firstpass.csproj", "{B52DAC5A-3845-6A34-785C-5290A6F69457}"
+EndProject
+Project("{8AF9E7CA-BEB7-583C-8456-D1BA9EF56A36}") = "DietApp", "Assembly-CSharp.csproj", "{D526ACB7-1C84-BA36-4C3E-2EF535288828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52DAC5A-3845-6A34-785C-5290A6F69457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52DAC5A-3845-6A34-785C-5290A6F69457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52DAC5A-3845-6A34-785C-5290A6F69457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52DAC5A-3845-6A34-785C-5290A6F69457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D526ACB7-1C84-BA36-4C3E-2EF535288828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D526ACB7-1C84-BA36-4C3E-2EF535288828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D526ACB7-1C84-BA36-4C3E-2EF535288828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D526ACB7-1C84-BA36-4C3E-2EF535288828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

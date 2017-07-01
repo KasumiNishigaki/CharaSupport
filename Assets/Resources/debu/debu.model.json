@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "debu",
+	"model": "debu.moc",
+	"textures": [
+		"debu.2048/texture_00.png"
+	]
+}

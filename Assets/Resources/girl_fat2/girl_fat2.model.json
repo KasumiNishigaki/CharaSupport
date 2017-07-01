@@ -1,0 +1,10 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "girl_fat2",
+	"model": "girl_fat2.moc",
+	"textures": [
+		"girl_fat2.2048/texture_00.png",
+		"girl_fat2.2048/texture_01.png",
+		"girl_fat2.2048/texture_02.png"
+	]
+}

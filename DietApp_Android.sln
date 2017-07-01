@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietApp_Android", "Assembly-CSharp-firstpass.csproj", "{9EF45CBC-B684-877E-C127-DDCEA521C34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietApp_Android", "Assembly-CSharp.csproj", "{40871664-2849-070B-90E0-B29A90324CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF45CBC-B684-877E-C127-DDCEA521C34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF45CBC-B684-877E-C127-DDCEA521C34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF45CBC-B684-877E-C127-DDCEA521C34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF45CBC-B684-877E-C127-DDCEA521C34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40871664-2849-070B-90E0-B29A90324CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40871664-2849-070B-90E0-B29A90324CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40871664-2849-070B-90E0-B29A90324CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40871664-2849-070B-90E0-B29A90324CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

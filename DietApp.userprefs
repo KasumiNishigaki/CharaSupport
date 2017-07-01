@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoadManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimpleModelEvent.cs" Line="53" Column="35" />
+      <File FileName="Assets/Scripts/VoicePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextController2.cs" Line="42" Column="34" />
+      <File FileName="Assets/Scripts/TextController1.cs" Line="79" Column="28" />
+      <File FileName="Assets/Scripts/AudioPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SimpleModel.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/Main.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FotterManager.cs" Line="130" Column="32" />
+      <File FileName="Assets/Scripts/SceneLoadManager.cs" Line="26" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

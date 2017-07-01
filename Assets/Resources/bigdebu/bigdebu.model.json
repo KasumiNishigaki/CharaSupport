@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "bigdebu",
+	"model": "bigdebu.moc",
+	"textures": [
+		"bigdebu.2048/texture_00.png"
+	]
+}
